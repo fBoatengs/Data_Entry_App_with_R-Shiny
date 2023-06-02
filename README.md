@@ -1,4 +1,9 @@
-# Project Description
-The goal of this project is to evaluate the effectiveness of a nutritional supplement in improving sleep quality among adults who experience sleep difficulties. The project involves conducting a randomized, double-blind, placebo-controlled trial with a sample of 50 adults aged 18-60 who have self-reported sleep difficulties.
+## Project Description
+The goal of this project is to evaluate the effectiveness of a nutritional supplement in improving sleep quality among adults who experience sleep difficulties. The project involves conducting a randomized, double-blind, placebo-controlled trial with a sample of 50 adults aged (18-60) who have self-reported sleep difficulties.
 
 In this study, participants will be randomly assigned to two groups: the intervention group and the placebo group. The intervention group will receive the nutritional supplement, while the placebo group will receive a similar-looking placebo without any active ingredients. Both groups will be unaware of whether they are receiving the actual supplement or the placebo, ensuring a double-blind design where neither the participants nor the researchers know the group assignments.
+
+### About the App
+To collect data on the participants' sleep quality, a data collection app built with R-Shiny will be used. The app will include features for inputting relevant information such as participant ID, demographic data (e.g., age, gender), and baseline characteristics. Additionally, the app will capture data on sleep quality using self-reported measures such as sleep duration, and daytime sleepiness.
+
+After the data is entered, it is automatically saved and updated in an Excel workbook located on your desktop. This ensures that the data remains securely stored and easily accessible for analysis and further processing. The Excel workbook serves as a centralized database, dynamically updating with each new entry made through the data collection app. This real-time updating feature enables efficient tracking and management of the collected data, providing a reliable and up-to-date resource for ongoing analysis and evaluation of the nutritional supplement's impact on sleep quality.
