@@ -6,3 +6,5 @@ This project evaluates a nutritional supplement's effectiveness in improving sle
 A data collection app was built with R-Shiny will be used to gather participant data on sleep quality. It will capture information like participant ID, demographics, and baseline characteristics. Sleep quality data will be collected through self-reported measures including sleep duration and daytime sleepiness.
 
 Data entered is automatically saved and updated in a desktop Excel workbook, ensuring secure storage and easy access. The workbook acts as a centralized database, dynamically updating with each new entry from the app. Real-time updates enable efficient data tracking and management, facilitating ongoing analysis of the nutritional supplement's impact on sleep quality.
+
+To run the data entry shiny app just [Click here]( https://fboatengs.shinyapps.io/database/)
